@@ -1,0 +1,45 @@
+#intro{
+    height: 100vh;
+}
+
+h4{
+    color: #0D47A1;
+}
+
+.card-action a{
+    color: lightgray;
+}
+
+.page-footer{
+    background-color: #0D47A1;
+}
+
+.ratio {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 0;
+    padding-bottom: 100%;
+    position: relative;
+    width: 100%;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
+.img-responsive {
+    display: block;
+    height: auto;
+    max-width: 100%;
+}
+
+.card200{
+    height: 200px;
+}
+.card150{
+    height: 150px;
+}
+.card50{
+    height: 50px;
+}
