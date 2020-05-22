@@ -33,52 +33,5 @@ table{
     font-weight: bold;
 }
 
-#usaFlag {
-    content: url("../icons/197373-countrys-flags/197373-countrys-flags/svg/united-states-of-america.svg");
-    height: 20px;
-    width: 20px;
-    position: relative;
-    top: 5px;
-    /* Other styles here */
-}
-
-#brFlag {
-    content: url("../icons/197373-countrys-flags/197373-countrys-flags/svg/brazil.svg");
-    height: 20px;
-    width: 20px;
-    position: relative;
-    top: 5px;
-    /* Other styles here */
-}
-
-#germanyFlag {
-    content: url("../icons/197373-countrys-flags/197373-countrys-flags/svg/germany.svg");
-    height: 20px;
-    width: 20px;
-    position: relative;
-    top: 5px;
-    /* Other styles here */
-}
-
-#italyFlag {
-    content: url("../icons/197373-countrys-flags/197373-countrys-flags/svg/italy.svg");
-    height: 20px;
-    width: 20px;
-    position: relative;
-    top: 5px;
-    /* Other styles here */
-}
-
-#spainFlag {
-    content: url("../icons/197373-countrys-flags/197373-countrys-flags/svg/spain.svg");
-    height: 20px;
-    width: 20px;
-    position: relative;
-    top: 5px;
-    /* Other styles here */
-}
 
 
-
-@media only screen and (max-width: 600px) { .row.valign-wrapper { display: inherit; } }
-@media only screen and (max-width: 992px) { .row.valign-wrapper { display: inherit; } }
